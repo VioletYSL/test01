@@ -12,7 +12,7 @@ public class sign extends JFrame {
 
     public sign(){
         super("簽名板");
-
+        String jh="1";
         clear = new JButton("清除");
         undo = new JButton("上一步");
         redo = new JButton("下一步");
